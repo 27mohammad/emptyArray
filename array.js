@@ -1,2 +1,2 @@
-[];
-let arr = [];
+const arr = [""];
+console.log(arr);
